@@ -99,7 +99,11 @@ h1{font-size:17px;margin:0}
 .grid .c-name{width:74px}
 .grid .c-kw{width:190px}
 .grid .c-cnt{width:50px;text-align:center}
-.grid .c-act{width:78px}
+.grid .c-act{width:104px}
+.grid .c-chk{width:36px;text-align:center}
+.grid .c-cls{width:62px;font-weight:700;color:var(--muted)}
+.grid td.c-chk{text-align:center}
+.grid input[type=checkbox]{width:16px;height:16px;cursor:pointer}
 .bt-name{font-weight:700}
 .grid textarea{width:100%;border:1px solid #e3e7ef;border-radius:8px;padding:7px 9px;font-size:13px;line-height:1.6;
   font-family:inherit;background:#fbfcfe;resize:none;overflow:hidden;display:block}
@@ -112,6 +116,13 @@ h1{font-size:17px;margin:0}
 .icon-btn{border:1px solid var(--line);background:#fff;border-radius:7px;padding:6px 7px;font-size:13px;line-height:1}
 .icon-btn:hover{border-color:var(--brand);color:var(--brand)}
 .icon-btn.del:hover{border-color:var(--red);color:var(--red);background:var(--red-l)}
+.icon-btn.rm:hover{border-color:var(--amber);color:var(--amber);background:var(--amber-l)}
+
+/* 동아리 사이드바 추가 버튼 */
+.student-list li .add{font-size:11px;font-weight:700;color:var(--brand);border:1px solid var(--brand);border-radius:12px;padding:2px 8px}
+.student-list li .add.on{color:var(--green);border-color:var(--green);background:var(--green-l)}
+.student-list li.added{background:#f3fbf6}
+.student-list li.added:hover{background:#e9f7ef}
 .empty{display:flex;align-items:center;justify-content:center;height:200px;color:var(--muted);text-align:center;padding:20px}
 
 /* ── 모달/토스트 ── */
