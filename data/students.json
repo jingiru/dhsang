@@ -1,0 +1,3944 @@
+[
+{
+"grade": 1,
+"class": 1,
+"num": 1101,
+"name": "강윤제"
+},
+{
+"grade": 1,
+"class": 1,
+"num": 1102,
+"name": "강지아"
+},
+{
+"grade": 1,
+"class": 1,
+"num": 1103,
+"name": "김동우"
+},
+{
+"grade": 1,
+"class": 1,
+"num": 1104,
+"name": "김동현"
+},
+{
+"grade": 1,
+"class": 1,
+"num": 1105,
+"name": "김서율"
+},
+{
+"grade": 1,
+"class": 1,
+"num": 1106,
+"name": "김세진"
+},
+{
+"grade": 1,
+"class": 1,
+"num": 1107,
+"name": "김지원"
+},
+{
+"grade": 1,
+"class": 1,
+"num": 1108,
+"name": "나현우"
+},
+{
+"grade": 1,
+"class": 1,
+"num": 1109,
+"name": "노여진"
+},
+{
+"grade": 1,
+"class": 1,
+"num": 1110,
+"name": "문기주"
+},
+{
+"grade": 1,
+"class": 1,
+"num": 1111,
+"name": "백지훈"
+},
+{
+"grade": 1,
+"class": 1,
+"num": 1112,
+"name": "서민혁"
+},
+{
+"grade": 1,
+"class": 1,
+"num": 1113,
+"name": "성유민"
+},
+{
+"grade": 1,
+"class": 1,
+"num": 1114,
+"name": "송유하"
+},
+{
+"grade": 1,
+"class": 1,
+"num": 1115,
+"name": "오현지"
+},
+{
+"grade": 1,
+"class": 1,
+"num": 1116,
+"name": "이수현"
+},
+{
+"grade": 1,
+"class": 1,
+"num": 1117,
+"name": "이은총"
+},
+{
+"grade": 1,
+"class": 1,
+"num": 1118,
+"name": "이정한"
+},
+{
+"grade": 1,
+"class": 1,
+"num": 1119,
+"name": "임승아"
+},
+{
+"grade": 1,
+"class": 1,
+"num": 1120,
+"name": "장서영"
+},
+{
+"grade": 1,
+"class": 1,
+"num": 1121,
+"name": "조윤채"
+},
+{
+"grade": 1,
+"class": 1,
+"num": 1122,
+"name": "허예진"
+},
+{
+"grade": 1,
+"class": 1,
+"num": 1123,
+"name": "황승빈"
+},
+{
+"grade": 1,
+"class": 1,
+"num": 1124,
+"name": "오유나"
+},
+{
+"grade": 1,
+"class": 2,
+"num": 1201,
+"name": "강지원"
+},
+{
+"grade": 1,
+"class": 2,
+"num": 1202,
+"name": "강채민"
+},
+{
+"grade": 1,
+"class": 2,
+"num": 1203,
+"name": "권윤우"
+},
+{
+"grade": 1,
+"class": 2,
+"num": 1204,
+"name": "김도윤"
+},
+{
+"grade": 1,
+"class": 2,
+"num": 1205,
+"name": "김민성"
+},
+{
+"grade": 1,
+"class": 2,
+"num": 1206,
+"name": "김소담"
+},
+{
+"grade": 1,
+"class": 2,
+"num": 1207,
+"name": "김소린"
+},
+{
+"grade": 1,
+"class": 2,
+"num": 1208,
+"name": "김지수"
+},
+{
+"grade": 1,
+"class": 2,
+"num": 1209,
+"name": "김지윤"
+},
+{
+"grade": 1,
+"class": 2,
+"num": 1210,
+"name": "노채민"
+},
+{
+"grade": 1,
+"class": 2,
+"num": 1211,
+"name": "문영현"
+},
+{
+"grade": 1,
+"class": 2,
+"num": 1212,
+"name": "박현준"
+},
+{
+"grade": 1,
+"class": 2,
+"num": 1213,
+"name": "서승지"
+},
+{
+"grade": 1,
+"class": 2,
+"num": 1214,
+"name": "서예슬"
+},
+{
+"grade": 1,
+"class": 2,
+"num": 1215,
+"name": "송지원"
+},
+{
+"grade": 1,
+"class": 2,
+"num": 1216,
+"name": "이가원"
+},
+{
+"grade": 1,
+"class": 2,
+"num": 1217,
+"name": "이다경"
+},
+{
+"grade": 1,
+"class": 2,
+"num": 1218,
+"name": "이왕현"
+},
+{
+"grade": 1,
+"class": 2,
+"num": 1219,
+"name": "이재하"
+},
+{
+"grade": 1,
+"class": 2,
+"num": 1220,
+"name": "임소연"
+},
+{
+"grade": 1,
+"class": 2,
+"num": 1221,
+"name": "장서은"
+},
+{
+"grade": 1,
+"class": 2,
+"num": 1222,
+"name": "탁규원"
+},
+{
+"grade": 1,
+"class": 2,
+"num": 1223,
+"name": "한유정"
+},
+{
+"grade": 1,
+"class": 2,
+"num": 1224,
+"name": "황유진"
+},
+{
+"grade": 1,
+"class": 3,
+"num": 1301,
+"name": "구민하"
+},
+{
+"grade": 1,
+"class": 3,
+"num": 1302,
+"name": "김단우"
+},
+{
+"grade": 1,
+"class": 3,
+"num": 1303,
+"name": "김도희"
+},
+{
+"grade": 1,
+"class": 3,
+"num": 1304,
+"name": "김로하"
+},
+{
+"grade": 1,
+"class": 3,
+"num": 1305,
+"name": "김민완"
+},
+{
+"grade": 1,
+"class": 3,
+"num": 1306,
+"name": "김예원"
+},
+{
+"grade": 1,
+"class": 3,
+"num": 1307,
+"name": "김주원"
+},
+{
+"grade": 1,
+"class": 3,
+"num": 1308,
+"name": "나현수"
+},
+{
+"grade": 1,
+"class": 3,
+"num": 1309,
+"name": "노라헬"
+},
+{
+"grade": 1,
+"class": 3,
+"num": 1310,
+"name": "박건비"
+},
+{
+"grade": 1,
+"class": 3,
+"num": 1311,
+"name": "박지훈"
+},
+{
+"grade": 1,
+"class": 3,
+"num": 1312,
+"name": "서진"
+},
+{
+"grade": 1,
+"class": 3,
+"num": 1313,
+"name": "송하영"
+},
+{
+"grade": 1,
+"class": 3,
+"num": 1314,
+"name": "윤지민"
+},
+{
+"grade": 1,
+"class": 3,
+"num": 1315,
+"name": "이리원"
+},
+{
+"grade": 1,
+"class": 3,
+"num": 1316,
+"name": "이시우"
+},
+{
+"grade": 1,
+"class": 3,
+"num": 1317,
+"name": "이윤형"
+},
+{
+"grade": 1,
+"class": 3,
+"num": 1318,
+"name": "임서율"
+},
+{
+"grade": 1,
+"class": 3,
+"num": 1319,
+"name": "장하윤"
+},
+{
+"grade": 1,
+"class": 3,
+"num": 1320,
+"name": "조건우"
+},
+{
+"grade": 1,
+"class": 3,
+"num": 1321,
+"name": "한도희"
+},
+{
+"grade": 1,
+"class": 3,
+"num": 1322,
+"name": "한수아"
+},
+{
+"grade": 1,
+"class": 3,
+"num": 1323,
+"name": "황윤서"
+},
+{
+"grade": 1,
+"class": 4,
+"num": 1401,
+"name": "곽주원"
+},
+{
+"grade": 1,
+"class": 4,
+"num": 1402,
+"name": "권연재"
+},
+{
+"grade": 1,
+"class": 4,
+"num": 1403,
+"name": "김나희"
+},
+{
+"grade": 1,
+"class": 4,
+"num": 1404,
+"name": "김단우"
+},
+{
+"grade": 1,
+"class": 4,
+"num": 1405,
+"name": "김민우"
+},
+{
+"grade": 1,
+"class": 4,
+"num": 1406,
+"name": "김소윤"
+},
+{
+"grade": 1,
+"class": 4,
+"num": 1407,
+"name": "김윤주"
+},
+{
+"grade": 1,
+"class": 4,
+"num": 1408,
+"name": "김지원"
+},
+{
+"grade": 1,
+"class": 4,
+"num": 1409,
+"name": "김현"
+},
+{
+"grade": 1,
+"class": 4,
+"num": 1410,
+"name": "박민범"
+},
+{
+"grade": 1,
+"class": 4,
+"num": 1411,
+"name": "박정윤"
+},
+{
+"grade": 1,
+"class": 4,
+"num": 1412,
+"name": "박지담"
+},
+{
+"grade": 1,
+"class": 4,
+"num": 1413,
+"name": "백수연"
+},
+{
+"grade": 1,
+"class": 4,
+"num": 1414,
+"name": "설수환"
+},
+{
+"grade": 1,
+"class": 4,
+"num": 1415,
+"name": "신소율"
+},
+{
+"grade": 1,
+"class": 4,
+"num": 1416,
+"name": "원종현"
+},
+{
+"grade": 1,
+"class": 4,
+"num": 1417,
+"name": "이서진"
+},
+{
+"grade": 1,
+"class": 4,
+"num": 1418,
+"name": "이소현"
+},
+{
+"grade": 1,
+"class": 4,
+"num": 1419,
+"name": "이효원"
+},
+{
+"grade": 1,
+"class": 4,
+"num": 1420,
+"name": "전소민"
+},
+{
+"grade": 1,
+"class": 4,
+"num": 1421,
+"name": "제무혁"
+},
+{
+"grade": 1,
+"class": 4,
+"num": 1422,
+"name": "한보리"
+},
+{
+"grade": 1,
+"class": 4,
+"num": 1423,
+"name": "한승덕"
+},
+{
+"grade": 1,
+"class": 4,
+"num": 1424,
+"name": "권예원"
+},
+{
+"grade": 1,
+"class": 5,
+"num": 1501,
+"name": "구하준"
+},
+{
+"grade": 1,
+"class": 5,
+"num": 1502,
+"name": "권윤재"
+},
+{
+"grade": 1,
+"class": 5,
+"num": 1503,
+"name": "김기석"
+},
+{
+"grade": 1,
+"class": 5,
+"num": 1504,
+"name": "김나윤"
+},
+{
+"grade": 1,
+"class": 5,
+"num": 1505,
+"name": "김민제"
+},
+{
+"grade": 1,
+"class": 5,
+"num": 1506,
+"name": "김수려"
+},
+{
+"grade": 1,
+"class": 5,
+"num": 1507,
+"name": "김유경"
+},
+{
+"grade": 1,
+"class": 5,
+"num": 1508,
+"name": "김지훈"
+},
+{
+"grade": 1,
+"class": 5,
+"num": 1509,
+"name": "라지안"
+},
+{
+"grade": 1,
+"class": 5,
+"num": 1510,
+"name": "박수현"
+},
+{
+"grade": 1,
+"class": 5,
+"num": 1511,
+"name": "박이안"
+},
+{
+"grade": 1,
+"class": 5,
+"num": 1512,
+"name": "박준휘"
+},
+{
+"grade": 1,
+"class": 5,
+"num": 1513,
+"name": "송현준"
+},
+{
+"grade": 1,
+"class": 5,
+"num": 1514,
+"name": "심보리"
+},
+{
+"grade": 1,
+"class": 5,
+"num": 1515,
+"name": "오하나"
+},
+{
+"grade": 1,
+"class": 5,
+"num": 1516,
+"name": "이가은"
+},
+{
+"grade": 1,
+"class": 5,
+"num": 1517,
+"name": "이하민"
+},
+{
+"grade": 1,
+"class": 5,
+"num": 1518,
+"name": "이혜서"
+},
+{
+"grade": 1,
+"class": 5,
+"num": 1519,
+"name": "전예찬"
+},
+{
+"grade": 1,
+"class": 5,
+"num": 1520,
+"name": "정아준"
+},
+{
+"grade": 1,
+"class": 5,
+"num": 1521,
+"name": "정하린"
+},
+{
+"grade": 1,
+"class": 5,
+"num": 1522,
+"name": "추시현"
+},
+{
+"grade": 1,
+"class": 5,
+"num": 1523,
+"name": "허서준"
+},
+{
+"grade": 1,
+"class": 6,
+"num": 1601,
+"name": "권성하"
+},
+{
+"grade": 1,
+"class": 6,
+"num": 1602,
+"name": "김가은"
+},
+{
+"grade": 1,
+"class": 6,
+"num": 1603,
+"name": "김규민"
+},
+{
+"grade": 1,
+"class": 6,
+"num": 1604,
+"name": "김나연"
+},
+{
+"grade": 1,
+"class": 6,
+"num": 1605,
+"name": "김세준"
+},
+{
+"grade": 1,
+"class": 6,
+"num": 1606,
+"name": "김시우"
+},
+{
+"grade": 1,
+"class": 6,
+"num": 1607,
+"name": "김예진"
+},
+{
+"grade": 1,
+"class": 6,
+"num": 1608,
+"name": "김재민"
+},
+{
+"grade": 1,
+"class": 6,
+"num": 1609,
+"name": "류이레"
+},
+{
+"grade": 1,
+"class": 6,
+"num": 1610,
+"name": "박승한"
+},
+{
+"grade": 1,
+"class": 6,
+"num": 1611,
+"name": "박연우"
+},
+{
+"grade": 1,
+"class": 6,
+"num": 1612,
+"name": "박재형"
+},
+{
+"grade": 1,
+"class": 6,
+"num": 1613,
+"name": "승규영"
+},
+{
+"grade": 1,
+"class": 6,
+"num": 1614,
+"name": "안현서"
+},
+{
+"grade": 1,
+"class": 6,
+"num": 1615,
+"name": "오지윤"
+},
+{
+"grade": 1,
+"class": 6,
+"num": 1616,
+"name": "유준영"
+},
+{
+"grade": 1,
+"class": 6,
+"num": 1617,
+"name": "이아린"
+},
+{
+"grade": 1,
+"class": 6,
+"num": 1618,
+"name": "이채은"
+},
+{
+"grade": 1,
+"class": 6,
+"num": 1619,
+"name": "임승훈"
+},
+{
+"grade": 1,
+"class": 6,
+"num": 1620,
+"name": "전은찬"
+},
+{
+"grade": 1,
+"class": 6,
+"num": 1621,
+"name": "정재호"
+},
+{
+"grade": 1,
+"class": 6,
+"num": 1622,
+"name": "정효린"
+},
+{
+"grade": 1,
+"class": 6,
+"num": 1623,
+"name": "최시아"
+},
+{
+"grade": 1,
+"class": 6,
+"num": 1624,
+"name": "최정인"
+},
+{
+"grade": 1,
+"class": 7,
+"num": 1701,
+"name": "권아율"
+},
+{
+"grade": 1,
+"class": 7,
+"num": 1702,
+"name": "김가현"
+},
+{
+"grade": 1,
+"class": 7,
+"num": 1703,
+"name": "김규빈"
+},
+{
+"grade": 1,
+"class": 7,
+"num": 1704,
+"name": "김승우"
+},
+{
+"grade": 1,
+"class": 7,
+"num": 1705,
+"name": "김연우"
+},
+{
+"grade": 1,
+"class": 7,
+"num": 1706,
+"name": "김예지"
+},
+{
+"grade": 1,
+"class": 7,
+"num": 1707,
+"name": "김윤환"
+},
+{
+"grade": 1,
+"class": 7,
+"num": 1708,
+"name": "박가연"
+},
+{
+"grade": 1,
+"class": 7,
+"num": 1709,
+"name": "박시영"
+},
+{
+"grade": 1,
+"class": 7,
+"num": 1710,
+"name": "박연아"
+},
+{
+"grade": 1,
+"class": 7,
+"num": 1711,
+"name": "박원철"
+},
+{
+"grade": 1,
+"class": 7,
+"num": 1712,
+"name": "엄시하"
+},
+{
+"grade": 1,
+"class": 7,
+"num": 1713,
+"name": "여동규"
+},
+{
+"grade": 1,
+"class": 7,
+"num": 1714,
+"name": "오윤하"
+},
+{
+"grade": 1,
+"class": 7,
+"num": 1715,
+"name": "이예서"
+},
+{
+"grade": 1,
+"class": 7,
+"num": 1716,
+"name": "이주성"
+},
+{
+"grade": 1,
+"class": 7,
+"num": 1717,
+"name": "이채원"
+},
+{
+"grade": 1,
+"class": 7,
+"num": 1718,
+"name": "임재민"
+},
+{
+"grade": 1,
+"class": 7,
+"num": 1719,
+"name": "전태현"
+},
+{
+"grade": 1,
+"class": 7,
+"num": 1720,
+"name": "조건희"
+},
+{
+"grade": 1,
+"class": 7,
+"num": 1721,
+"name": "조은율"
+},
+{
+"grade": 1,
+"class": 7,
+"num": 1722,
+"name": "최서린"
+},
+{
+"grade": 1,
+"class": 7,
+"num": 1723,
+"name": "최진우"
+},
+{
+"grade": 1,
+"class": 8,
+"num": 1801,
+"name": "구재현"
+},
+{
+"grade": 1,
+"class": 8,
+"num": 1802,
+"name": "권오현"
+},
+{
+"grade": 1,
+"class": 8,
+"num": 1803,
+"name": "권우현"
+},
+{
+"grade": 1,
+"class": 8,
+"num": 1804,
+"name": "김고은"
+},
+{
+"grade": 1,
+"class": 8,
+"num": 1805,
+"name": "김규리"
+},
+{
+"grade": 1,
+"class": 8,
+"num": 1806,
+"name": "김예은"
+},
+{
+"grade": 1,
+"class": 8,
+"num": 1807,
+"name": "김윤모"
+},
+{
+"grade": 1,
+"class": 8,
+"num": 1808,
+"name": "김윤우"
+},
+{
+"grade": 1,
+"class": 8,
+"num": 1809,
+"name": "박다연"
+},
+{
+"grade": 1,
+"class": 8,
+"num": 1810,
+"name": "박수연"
+},
+{
+"grade": 1,
+"class": 8,
+"num": 1811,
+"name": "박시우"
+},
+{
+"grade": 1,
+"class": 8,
+"num": 1812,
+"name": "박예현"
+},
+{
+"grade": 1,
+"class": 8,
+"num": 1813,
+"name": "여은송"
+},
+{
+"grade": 1,
+"class": 8,
+"num": 1814,
+"name": "오유준"
+},
+{
+"grade": 1,
+"class": 8,
+"num": 1815,
+"name": "오지원"
+},
+{
+"grade": 1,
+"class": 8,
+"num": 1816,
+"name": "이나은"
+},
+{
+"grade": 1,
+"class": 8,
+"num": 1817,
+"name": "이동환"
+},
+{
+"grade": 1,
+"class": 8,
+"num": 1818,
+"name": "이윤지"
+},
+{
+"grade": 1,
+"class": 8,
+"num": 1819,
+"name": "이지윤"
+},
+{
+"grade": 1,
+"class": 8,
+"num": 1820,
+"name": "조하연"
+},
+{
+"grade": 1,
+"class": 8,
+"num": 1821,
+"name": "주아람"
+},
+{
+"grade": 1,
+"class": 8,
+"num": 1822,
+"name": "현나윤"
+},
+{
+"grade": 1,
+"class": 8,
+"num": 1823,
+"name": "홍윤우"
+},
+{
+"grade": 2,
+"class": 1,
+"num": 2101,
+"name": "가도연"
+},
+{
+"grade": 2,
+"class": 1,
+"num": 2102,
+"name": "가윤성"
+},
+{
+"grade": 2,
+"class": 1,
+"num": 2103,
+"name": "강민선"
+},
+{
+"grade": 2,
+"class": 1,
+"num": 2104,
+"name": "강채윤"
+},
+{
+"grade": 2,
+"class": 1,
+"num": 2105,
+"name": "김태영"
+},
+{
+"grade": 2,
+"class": 1,
+"num": 2106,
+"name": "김태희"
+},
+{
+"grade": 2,
+"class": 1,
+"num": 2107,
+"name": "류서연"
+},
+{
+"grade": 2,
+"class": 1,
+"num": 2108,
+"name": "박동우"
+},
+{
+"grade": 2,
+"class": 1,
+"num": 2109,
+"name": "박주현"
+},
+{
+"grade": 2,
+"class": 1,
+"num": 2110,
+"name": "박채이"
+},
+{
+"grade": 2,
+"class": 1,
+"num": 2111,
+"name": "박태현"
+},
+{
+"grade": 2,
+"class": 1,
+"num": 2112,
+"name": "배예린"
+},
+{
+"grade": 2,
+"class": 1,
+"num": 2113,
+"name": "서예담"
+},
+{
+"grade": 2,
+"class": 1,
+"num": 2114,
+"name": "서정민"
+},
+{
+"grade": 2,
+"class": 1,
+"num": 2115,
+"name": "양다혜"
+},
+{
+"grade": 2,
+"class": 1,
+"num": 2116,
+"name": "오가연"
+},
+{
+"grade": 2,
+"class": 1,
+"num": 2117,
+"name": "오채은"
+},
+{
+"grade": 2,
+"class": 1,
+"num": 2118,
+"name": "오현진"
+},
+{
+"grade": 2,
+"class": 1,
+"num": 2119,
+"name": "유지훈"
+},
+{
+"grade": 2,
+"class": 1,
+"num": 2120,
+"name": "윤서연"
+},
+{
+"grade": 2,
+"class": 1,
+"num": 2121,
+"name": "이도혁"
+},
+{
+"grade": 2,
+"class": 1,
+"num": 2122,
+"name": "이서준"
+},
+{
+"grade": 2,
+"class": 1,
+"num": 2123,
+"name": "이준호"
+},
+{
+"grade": 2,
+"class": 1,
+"num": 2124,
+"name": "이지민"
+},
+{
+"grade": 2,
+"class": 1,
+"num": 2125,
+"name": "이태경"
+},
+{
+"grade": 2,
+"class": 1,
+"num": 2126,
+"name": "이호연"
+},
+{
+"grade": 2,
+"class": 1,
+"num": 2127,
+"name": "임민수"
+},
+{
+"grade": 2,
+"class": 1,
+"num": 2128,
+"name": "전동민"
+},
+{
+"grade": 2,
+"class": 2,
+"num": 2201,
+"name": "고가희"
+},
+{
+"grade": 2,
+"class": 2,
+"num": 2202,
+"name": "권성민"
+},
+{
+"grade": 2,
+"class": 2,
+"num": 2203,
+"name": "김민재"
+},
+{
+"grade": 2,
+"class": 2,
+"num": 2204,
+"name": "김보근"
+},
+{
+"grade": 2,
+"class": 2,
+"num": 2205,
+"name": "김수빈"
+},
+{
+"grade": 2,
+"class": 2,
+"num": 2206,
+"name": "김아인"
+},
+{
+"grade": 2,
+"class": 2,
+"num": 2207,
+"name": "김우빈"
+},
+{
+"grade": 2,
+"class": 2,
+"num": 2208,
+"name": "김희진"
+},
+{
+"grade": 2,
+"class": 2,
+"num": 2209,
+"name": "남궁영"
+},
+{
+"grade": 2,
+"class": 2,
+"num": 2210,
+"name": "류수현"
+},
+{
+"grade": 2,
+"class": 2,
+"num": 2211,
+"name": "박채윤"
+},
+{
+"grade": 2,
+"class": 2,
+"num": 2212,
+"name": "서승아"
+},
+{
+"grade": 2,
+"class": 2,
+"num": 2213,
+"name": "서연우"
+},
+{
+"grade": 2,
+"class": 2,
+"num": 2214,
+"name": "신지아"
+},
+{
+"grade": 2,
+"class": 2,
+"num": 2215,
+"name": "심송연"
+},
+{
+"grade": 2,
+"class": 2,
+"num": 2216,
+"name": "우다겸"
+},
+{
+"grade": 2,
+"class": 2,
+"num": 2217,
+"name": "이건"
+},
+{
+"grade": 2,
+"class": 2,
+"num": 2218,
+"name": "이라희"
+},
+{
+"grade": 2,
+"class": 2,
+"num": 2219,
+"name": "이서후"
+},
+{
+"grade": 2,
+"class": 2,
+"num": 2220,
+"name": "이윤채"
+},
+{
+"grade": 2,
+"class": 2,
+"num": 2221,
+"name": "이재범"
+},
+{
+"grade": 2,
+"class": 2,
+"num": 2222,
+"name": "이해원"
+},
+{
+"grade": 2,
+"class": 2,
+"num": 2223,
+"name": "임유빈"
+},
+{
+"grade": 2,
+"class": 2,
+"num": 2224,
+"name": "정연우"
+},
+{
+"grade": 2,
+"class": 2,
+"num": 2225,
+"name": "정은호"
+},
+{
+"grade": 2,
+"class": 2,
+"num": 2226,
+"name": "최효인"
+},
+{
+"grade": 2,
+"class": 2,
+"num": 2227,
+"name": "한도형"
+},
+{
+"grade": 2,
+"class": 3,
+"num": 2301,
+"name": "강수현"
+},
+{
+"grade": 2,
+"class": 3,
+"num": 2302,
+"name": "구건호"
+},
+{
+"grade": 2,
+"class": 3,
+"num": 2303,
+"name": "김도희"
+},
+{
+"grade": 2,
+"class": 3,
+"num": 2304,
+"name": "김소현"
+},
+{
+"grade": 2,
+"class": 3,
+"num": 2305,
+"name": "김정호"
+},
+{
+"grade": 2,
+"class": 3,
+"num": 2306,
+"name": "박민지"
+},
+{
+"grade": 2,
+"class": 3,
+"num": 2308,
+"name": "박지원"
+},
+{
+"grade": 2,
+"class": 3,
+"num": 2309,
+"name": "박지현"
+},
+{
+"grade": 2,
+"class": 3,
+"num": 2310,
+"name": "박채윤"
+},
+{
+"grade": 2,
+"class": 3,
+"num": 2311,
+"name": "백지민"
+},
+{
+"grade": 2,
+"class": 3,
+"num": 2312,
+"name": "설예준"
+},
+{
+"grade": 2,
+"class": 3,
+"num": 2313,
+"name": "신우찬"
+},
+{
+"grade": 2,
+"class": 3,
+"num": 2314,
+"name": "안소윤"
+},
+{
+"grade": 2,
+"class": 3,
+"num": 2315,
+"name": "양재우"
+},
+{
+"grade": 2,
+"class": 3,
+"num": 2316,
+"name": "오태운"
+},
+{
+"grade": 2,
+"class": 3,
+"num": 2317,
+"name": "유효리"
+},
+{
+"grade": 2,
+"class": 3,
+"num": 2318,
+"name": "윤록현"
+},
+{
+"grade": 2,
+"class": 3,
+"num": 2319,
+"name": "윤하윤"
+},
+{
+"grade": 2,
+"class": 3,
+"num": 2320,
+"name": "이서연"
+},
+{
+"grade": 2,
+"class": 3,
+"num": 2321,
+"name": "임현서"
+},
+{
+"grade": 2,
+"class": 3,
+"num": 2322,
+"name": "전재원"
+},
+{
+"grade": 2,
+"class": 3,
+"num": 2323,
+"name": "정보경"
+},
+{
+"grade": 2,
+"class": 3,
+"num": 2324,
+"name": "정재우"
+},
+{
+"grade": 2,
+"class": 3,
+"num": 2325,
+"name": "정호렬"
+},
+{
+"grade": 2,
+"class": 3,
+"num": 2326,
+"name": "주한성"
+},
+{
+"grade": 2,
+"class": 3,
+"num": 2327,
+"name": "채호진"
+},
+{
+"grade": 2,
+"class": 3,
+"num": 2328,
+"name": "최하준"
+},
+{
+"grade": 2,
+"class": 4,
+"num": 2401,
+"name": "강가현"
+},
+{
+"grade": 2,
+"class": 4,
+"num": 2402,
+"name": "곽영준"
+},
+{
+"grade": 2,
+"class": 4,
+"num": 2403,
+"name": "김강우"
+},
+{
+"grade": 2,
+"class": 4,
+"num": 2404,
+"name": "김민결"
+},
+{
+"grade": 2,
+"class": 4,
+"num": 2405,
+"name": "김서준"
+},
+{
+"grade": 2,
+"class": 4,
+"num": 2406,
+"name": "김서현"
+},
+{
+"grade": 2,
+"class": 4,
+"num": 2407,
+"name": "김주원"
+},
+{
+"grade": 2,
+"class": 4,
+"num": 2408,
+"name": "김한빛"
+},
+{
+"grade": 2,
+"class": 4,
+"num": 2409,
+"name": "김형원"
+},
+{
+"grade": 2,
+"class": 4,
+"num": 2410,
+"name": "김혜슬"
+},
+{
+"grade": 2,
+"class": 4,
+"num": 2411,
+"name": "민효주"
+},
+{
+"grade": 2,
+"class": 4,
+"num": 2412,
+"name": "박민솔"
+},
+{
+"grade": 2,
+"class": 4,
+"num": 2413,
+"name": "박주하"
+},
+{
+"grade": 2,
+"class": 4,
+"num": 2414,
+"name": "서진우"
+},
+{
+"grade": 2,
+"class": 4,
+"num": 2415,
+"name": "손은성"
+},
+{
+"grade": 2,
+"class": 4,
+"num": 2416,
+"name": "안나율"
+},
+{
+"grade": 2,
+"class": 4,
+"num": 2417,
+"name": "안다연"
+},
+{
+"grade": 2,
+"class": 4,
+"num": 2418,
+"name": "안재균"
+},
+{
+"grade": 2,
+"class": 4,
+"num": 2419,
+"name": "이강"
+},
+{
+"grade": 2,
+"class": 4,
+"num": 2420,
+"name": "이래아"
+},
+{
+"grade": 2,
+"class": 4,
+"num": 2421,
+"name": "이승원"
+},
+{
+"grade": 2,
+"class": 4,
+"num": 2422,
+"name": "이시윤"
+},
+{
+"grade": 2,
+"class": 4,
+"num": 2423,
+"name": "이용준"
+},
+{
+"grade": 2,
+"class": 4,
+"num": 2424,
+"name": "이주한"
+},
+{
+"grade": 2,
+"class": 4,
+"num": 2426,
+"name": "정지우"
+},
+{
+"grade": 2,
+"class": 4,
+"num": 2427,
+"name": "한재하"
+},
+{
+"grade": 2,
+"class": 4,
+"num": 2428,
+"name": "함서윤"
+},
+{
+"grade": 2,
+"class": 4,
+"num": 2429,
+"name": "홍우현"
+},
+{
+"grade": 2,
+"class": 5,
+"num": 2501,
+"name": "강찬율"
+},
+{
+"grade": 2,
+"class": 5,
+"num": 2502,
+"name": "강현우"
+},
+{
+"grade": 2,
+"class": 5,
+"num": 2503,
+"name": "권민서"
+},
+{
+"grade": 2,
+"class": 5,
+"num": 2504,
+"name": "김민주"
+},
+{
+"grade": 2,
+"class": 5,
+"num": 2505,
+"name": "김예음"
+},
+{
+"grade": 2,
+"class": 5,
+"num": 2506,
+"name": "김주원"
+},
+{
+"grade": 2,
+"class": 5,
+"num": 2507,
+"name": "김지민"
+},
+{
+"grade": 2,
+"class": 5,
+"num": 2508,
+"name": "김태현"
+},
+{
+"grade": 2,
+"class": 5,
+"num": 2509,
+"name": "김하나"
+},
+{
+"grade": 2,
+"class": 5,
+"num": 2510,
+"name": "모건휘"
+},
+{
+"grade": 2,
+"class": 5,
+"num": 2511,
+"name": "박도이"
+},
+{
+"grade": 2,
+"class": 5,
+"num": 2512,
+"name": "박재원"
+},
+{
+"grade": 2,
+"class": 5,
+"num": 2514,
+"name": "범진서"
+},
+{
+"grade": 2,
+"class": 5,
+"num": 2515,
+"name": "설예찬"
+},
+{
+"grade": 2,
+"class": 5,
+"num": 2516,
+"name": "송단희"
+},
+{
+"grade": 2,
+"class": 5,
+"num": 2517,
+"name": "양예준"
+},
+{
+"grade": 2,
+"class": 5,
+"num": 2518,
+"name": "유하석"
+},
+{
+"grade": 2,
+"class": 5,
+"num": 2519,
+"name": "윤하임"
+},
+{
+"grade": 2,
+"class": 5,
+"num": 2520,
+"name": "이지우"
+},
+{
+"grade": 2,
+"class": 5,
+"num": 2521,
+"name": "장윤서"
+},
+{
+"grade": 2,
+"class": 5,
+"num": 2522,
+"name": "정민지"
+},
+{
+"grade": 2,
+"class": 5,
+"num": 2523,
+"name": "정재훈"
+},
+{
+"grade": 2,
+"class": 5,
+"num": 2524,
+"name": "진수민"
+},
+{
+"grade": 2,
+"class": 5,
+"num": 2525,
+"name": "천재준"
+},
+{
+"grade": 2,
+"class": 5,
+"num": 2526,
+"name": "최지호"
+},
+{
+"grade": 2,
+"class": 5,
+"num": 2527,
+"name": "최현웅"
+},
+{
+"grade": 2,
+"class": 5,
+"num": 2528,
+"name": "한시율"
+},
+{
+"grade": 2,
+"class": 6,
+"num": 2601,
+"name": "강서영"
+},
+{
+"grade": 2,
+"class": 6,
+"num": 2602,
+"name": "김규리"
+},
+{
+"grade": 2,
+"class": 6,
+"num": 2603,
+"name": "김도윤"
+},
+{
+"grade": 2,
+"class": 6,
+"num": 2604,
+"name": "김라헬"
+},
+{
+"grade": 2,
+"class": 6,
+"num": 2605,
+"name": "김성현"
+},
+{
+"grade": 2,
+"class": 6,
+"num": 2606,
+"name": "김소윤"
+},
+{
+"grade": 2,
+"class": 6,
+"num": 2607,
+"name": "김아린"
+},
+{
+"grade": 2,
+"class": 6,
+"num": 2608,
+"name": "김영조"
+},
+{
+"grade": 2,
+"class": 6,
+"num": 2609,
+"name": "김예준"
+},
+{
+"grade": 2,
+"class": 6,
+"num": 2610,
+"name": "김율민"
+},
+{
+"grade": 2,
+"class": 6,
+"num": 2612,
+"name": "노준호"
+},
+{
+"grade": 2,
+"class": 6,
+"num": 2613,
+"name": "박시우"
+},
+{
+"grade": 2,
+"class": 6,
+"num": 2614,
+"name": "신동화"
+},
+{
+"grade": 2,
+"class": 6,
+"num": 2615,
+"name": "안채율"
+},
+{
+"grade": 2,
+"class": 6,
+"num": 2616,
+"name": "양지원"
+},
+{
+"grade": 2,
+"class": 6,
+"num": 2617,
+"name": "여은송"
+},
+{
+"grade": 2,
+"class": 6,
+"num": 2618,
+"name": "유주원"
+},
+{
+"grade": 2,
+"class": 6,
+"num": 2619,
+"name": "이선재"
+},
+{
+"grade": 2,
+"class": 6,
+"num": 2620,
+"name": "이소윤"
+},
+{
+"grade": 2,
+"class": 6,
+"num": 2621,
+"name": "이승현"
+},
+{
+"grade": 2,
+"class": 6,
+"num": 2622,
+"name": "정서호"
+},
+{
+"grade": 2,
+"class": 6,
+"num": 2623,
+"name": "조수민"
+},
+{
+"grade": 2,
+"class": 6,
+"num": 2624,
+"name": "조용준"
+},
+{
+"grade": 2,
+"class": 6,
+"num": 2625,
+"name": "조혜윤"
+},
+{
+"grade": 2,
+"class": 6,
+"num": 2626,
+"name": "차준호"
+},
+{
+"grade": 2,
+"class": 6,
+"num": 2627,
+"name": "채희환"
+},
+{
+"grade": 2,
+"class": 6,
+"num": 2628,
+"name": "최은식"
+},
+{
+"grade": 2,
+"class": 7,
+"num": 2701,
+"name": "강윤준"
+},
+{
+"grade": 2,
+"class": 7,
+"num": 2702,
+"name": "강태오"
+},
+{
+"grade": 2,
+"class": 7,
+"num": 2703,
+"name": "곽민서"
+},
+{
+"grade": 2,
+"class": 7,
+"num": 2704,
+"name": "김건우"
+},
+{
+"grade": 2,
+"class": 7,
+"num": 2705,
+"name": "김다은"
+},
+{
+"grade": 2,
+"class": 7,
+"num": 2706,
+"name": "김재윤"
+},
+{
+"grade": 2,
+"class": 7,
+"num": 2707,
+"name": "김찬율"
+},
+{
+"grade": 2,
+"class": 7,
+"num": 2708,
+"name": "김한결"
+},
+{
+"grade": 2,
+"class": 7,
+"num": 2709,
+"name": "나현서"
+},
+{
+"grade": 2,
+"class": 7,
+"num": 2710,
+"name": "박수완"
+},
+{
+"grade": 2,
+"class": 7,
+"num": 2711,
+"name": "박주은"
+},
+{
+"grade": 2,
+"class": 7,
+"num": 2712,
+"name": "박지환"
+},
+{
+"grade": 2,
+"class": 7,
+"num": 2713,
+"name": "송민아"
+},
+{
+"grade": 2,
+"class": 7,
+"num": 2714,
+"name": "양하린"
+},
+{
+"grade": 2,
+"class": 7,
+"num": 2715,
+"name": "오세아"
+},
+{
+"grade": 2,
+"class": 7,
+"num": 2716,
+"name": "윤예준"
+},
+{
+"grade": 2,
+"class": 7,
+"num": 2717,
+"name": "이동욱"
+},
+{
+"grade": 2,
+"class": 7,
+"num": 2718,
+"name": "이슬우"
+},
+{
+"grade": 2,
+"class": 7,
+"num": 2719,
+"name": "이시은"
+},
+{
+"grade": 2,
+"class": 7,
+"num": 2720,
+"name": "이윤재"
+},
+{
+"grade": 2,
+"class": 7,
+"num": 2721,
+"name": "임예담"
+},
+{
+"grade": 2,
+"class": 7,
+"num": 2722,
+"name": "임지윤"
+},
+{
+"grade": 2,
+"class": 7,
+"num": 2724,
+"name": "장소헌"
+},
+{
+"grade": 2,
+"class": 7,
+"num": 2725,
+"name": "정다빈"
+},
+{
+"grade": 2,
+"class": 7,
+"num": 2726,
+"name": "최가온"
+},
+{
+"grade": 2,
+"class": 7,
+"num": 2727,
+"name": "하현준"
+},
+{
+"grade": 2,
+"class": 7,
+"num": 2728,
+"name": "홍석준"
+},
+{
+"grade": 2,
+"class": 8,
+"num": 2801,
+"name": "구승현"
+},
+{
+"grade": 2,
+"class": 8,
+"num": 2802,
+"name": "권나현"
+},
+{
+"grade": 2,
+"class": 8,
+"num": 2803,
+"name": "김시훈"
+},
+{
+"grade": 2,
+"class": 8,
+"num": 2804,
+"name": "김재인"
+},
+{
+"grade": 2,
+"class": 8,
+"num": 2805,
+"name": "김지민"
+},
+{
+"grade": 2,
+"class": 8,
+"num": 2806,
+"name": "김태경"
+},
+{
+"grade": 2,
+"class": 8,
+"num": 2807,
+"name": "나윤서"
+},
+{
+"grade": 2,
+"class": 8,
+"num": 2808,
+"name": "노연우"
+},
+{
+"grade": 2,
+"class": 8,
+"num": 2809,
+"name": "박성현"
+},
+{
+"grade": 2,
+"class": 8,
+"num": 2810,
+"name": "박시완"
+},
+{
+"grade": 2,
+"class": 8,
+"num": 2811,
+"name": "박시현"
+},
+{
+"grade": 2,
+"class": 8,
+"num": 2812,
+"name": "박은서"
+},
+{
+"grade": 2,
+"class": 8,
+"num": 2813,
+"name": "배소희"
+},
+{
+"grade": 2,
+"class": 8,
+"num": 2814,
+"name": "서동완"
+},
+{
+"grade": 2,
+"class": 8,
+"num": 2815,
+"name": "송건"
+},
+{
+"grade": 2,
+"class": 8,
+"num": 2816,
+"name": "송성준"
+},
+{
+"grade": 2,
+"class": 8,
+"num": 2817,
+"name": "송원록"
+},
+{
+"grade": 2,
+"class": 8,
+"num": 2818,
+"name": "유소연"
+},
+{
+"grade": 2,
+"class": 8,
+"num": 2819,
+"name": "윤시우"
+},
+{
+"grade": 2,
+"class": 8,
+"num": 2820,
+"name": "이규현"
+},
+{
+"grade": 2,
+"class": 8,
+"num": 2821,
+"name": "이중헌"
+},
+{
+"grade": 2,
+"class": 8,
+"num": 2822,
+"name": "임봄"
+},
+{
+"grade": 2,
+"class": 8,
+"num": 2823,
+"name": "장우진"
+},
+{
+"grade": 2,
+"class": 8,
+"num": 2824,
+"name": "조유진"
+},
+{
+"grade": 2,
+"class": 8,
+"num": 2825,
+"name": "조혜은"
+},
+{
+"grade": 2,
+"class": 8,
+"num": 2826,
+"name": "차은서"
+},
+{
+"grade": 2,
+"class": 8,
+"num": 2827,
+"name": "최서준"
+},
+{
+"grade": 2,
+"class": 8,
+"num": 2828,
+"name": "현도윤"
+},
+{
+"grade": 3,
+"class": 1,
+"num": 3101,
+"name": "강성호"
+},
+{
+"grade": 3,
+"class": 1,
+"num": 3102,
+"name": "강해림"
+},
+{
+"grade": 3,
+"class": 1,
+"num": 3103,
+"name": "권찬민"
+},
+{
+"grade": 3,
+"class": 1,
+"num": 3104,
+"name": "김도율"
+},
+{
+"grade": 3,
+"class": 1,
+"num": 3105,
+"name": "김도은"
+},
+{
+"grade": 3,
+"class": 1,
+"num": 3106,
+"name": "김도현"
+},
+{
+"grade": 3,
+"class": 1,
+"num": 3107,
+"name": "김민준"
+},
+{
+"grade": 3,
+"class": 1,
+"num": 3108,
+"name": "김지원"
+},
+{
+"grade": 3,
+"class": 1,
+"num": 3109,
+"name": "민경훈"
+},
+{
+"grade": 3,
+"class": 1,
+"num": 3110,
+"name": "서동찬"
+},
+{
+"grade": 3,
+"class": 1,
+"num": 3111,
+"name": "송민섭"
+},
+{
+"grade": 3,
+"class": 1,
+"num": 3112,
+"name": "신은지"
+},
+{
+"grade": 3,
+"class": 1,
+"num": 3113,
+"name": "안채아"
+},
+{
+"grade": 3,
+"class": 1,
+"num": 3114,
+"name": "오유현"
+},
+{
+"grade": 3,
+"class": 1,
+"num": 3115,
+"name": "오준서"
+},
+{
+"grade": 3,
+"class": 1,
+"num": 3116,
+"name": "유동길"
+},
+{
+"grade": 3,
+"class": 1,
+"num": 3117,
+"name": "윤건우"
+},
+{
+"grade": 3,
+"class": 1,
+"num": 3118,
+"name": "이연희"
+},
+{
+"grade": 3,
+"class": 1,
+"num": 3119,
+"name": "이우석"
+},
+{
+"grade": 3,
+"class": 1,
+"num": 3120,
+"name": "이윤아"
+},
+{
+"grade": 3,
+"class": 1,
+"num": 3121,
+"name": "이윤우"
+},
+{
+"grade": 3,
+"class": 1,
+"num": 3122,
+"name": "이은혜"
+},
+{
+"grade": 3,
+"class": 1,
+"num": 3123,
+"name": "이찬영"
+},
+{
+"grade": 3,
+"class": 1,
+"num": 3124,
+"name": "임라운"
+},
+{
+"grade": 3,
+"class": 1,
+"num": 3125,
+"name": "정채운"
+},
+{
+"grade": 3,
+"class": 1,
+"num": 3126,
+"name": "조수민"
+},
+{
+"grade": 3,
+"class": 1,
+"num": 3127,
+"name": "조현진"
+},
+{
+"grade": 3,
+"class": 1,
+"num": 3128,
+"name": "차지유"
+},
+{
+"grade": 3,
+"class": 1,
+"num": 3129,
+"name": "최소령"
+},
+{
+"grade": 3,
+"class": 1,
+"num": 3130,
+"name": "최은성"
+},
+{
+"grade": 3,
+"class": 1,
+"num": 3131,
+"name": "한다흰"
+},
+{
+"grade": 3,
+"class": 2,
+"num": 3201,
+"name": "강민상"
+},
+{
+"grade": 3,
+"class": 2,
+"num": 3202,
+"name": "김건우"
+},
+{
+"grade": 3,
+"class": 2,
+"num": 3203,
+"name": "김동하"
+},
+{
+"grade": 3,
+"class": 2,
+"num": 3204,
+"name": "김지우"
+},
+{
+"grade": 3,
+"class": 2,
+"num": 3205,
+"name": "김하율"
+},
+{
+"grade": 3,
+"class": 2,
+"num": 3206,
+"name": "박경률"
+},
+{
+"grade": 3,
+"class": 2,
+"num": 3207,
+"name": "박루아"
+},
+{
+"grade": 3,
+"class": 2,
+"num": 3208,
+"name": "박세인"
+},
+{
+"grade": 3,
+"class": 2,
+"num": 3209,
+"name": "박주하"
+},
+{
+"grade": 3,
+"class": 2,
+"num": 3210,
+"name": "성주원"
+},
+{
+"grade": 3,
+"class": 2,
+"num": 3211,
+"name": "송윤지"
+},
+{
+"grade": 3,
+"class": 2,
+"num": 3212,
+"name": "송제희"
+},
+{
+"grade": 3,
+"class": 2,
+"num": 3213,
+"name": "안나현"
+},
+{
+"grade": 3,
+"class": 2,
+"num": 3214,
+"name": "안준서"
+},
+{
+"grade": 3,
+"class": 2,
+"num": 3215,
+"name": "양지산"
+},
+{
+"grade": 3,
+"class": 2,
+"num": 3216,
+"name": "양지훈"
+},
+{
+"grade": 3,
+"class": 2,
+"num": 3217,
+"name": "유동훈"
+},
+{
+"grade": 3,
+"class": 2,
+"num": 3218,
+"name": "이승호"
+},
+{
+"grade": 3,
+"class": 2,
+"num": 3219,
+"name": "이주열"
+},
+{
+"grade": 3,
+"class": 2,
+"num": 3220,
+"name": "이지민"
+},
+{
+"grade": 3,
+"class": 2,
+"num": 3221,
+"name": "이지성"
+},
+{
+"grade": 3,
+"class": 2,
+"num": 3222,
+"name": "이지원"
+},
+{
+"grade": 3,
+"class": 2,
+"num": 3223,
+"name": "임윤아"
+},
+{
+"grade": 3,
+"class": 2,
+"num": 3224,
+"name": "정나윤"
+},
+{
+"grade": 3,
+"class": 2,
+"num": 3225,
+"name": "정하연"
+},
+{
+"grade": 3,
+"class": 2,
+"num": 3226,
+"name": "주은채"
+},
+{
+"grade": 3,
+"class": 2,
+"num": 3227,
+"name": "최라온"
+},
+{
+"grade": 3,
+"class": 2,
+"num": 3228,
+"name": "최지호"
+},
+{
+"grade": 3,
+"class": 2,
+"num": 3229,
+"name": "표지민"
+},
+{
+"grade": 3,
+"class": 2,
+"num": 3230,
+"name": "한유림"
+},
+{
+"grade": 3,
+"class": 2,
+"num": 3231,
+"name": "황윤서"
+},
+{
+"grade": 3,
+"class": 3,
+"num": 3301,
+"name": "김동우"
+},
+{
+"grade": 3,
+"class": 3,
+"num": 3302,
+"name": "김민주"
+},
+{
+"grade": 3,
+"class": 3,
+"num": 3303,
+"name": "김지원"
+},
+{
+"grade": 3,
+"class": 3,
+"num": 3304,
+"name": "노채영"
+},
+{
+"grade": 3,
+"class": 3,
+"num": 3305,
+"name": "문기덕"
+},
+{
+"grade": 3,
+"class": 3,
+"num": 3306,
+"name": "민소율"
+},
+{
+"grade": 3,
+"class": 3,
+"num": 3307,
+"name": "박도현"
+},
+{
+"grade": 3,
+"class": 3,
+"num": 3308,
+"name": "박소윤"
+},
+{
+"grade": 3,
+"class": 3,
+"num": 3309,
+"name": "박소정"
+},
+{
+"grade": 3,
+"class": 3,
+"num": 3310,
+"name": "배강모"
+},
+{
+"grade": 3,
+"class": 3,
+"num": 3311,
+"name": "배서윤"
+},
+{
+"grade": 3,
+"class": 3,
+"num": 3312,
+"name": "시윤건"
+},
+{
+"grade": 3,
+"class": 3,
+"num": 3313,
+"name": "신지율"
+},
+{
+"grade": 3,
+"class": 3,
+"num": 3314,
+"name": "신하은"
+},
+{
+"grade": 3,
+"class": 3,
+"num": 3315,
+"name": "심형기"
+},
+{
+"grade": 3,
+"class": 3,
+"num": 3316,
+"name": "안예찬"
+},
+{
+"grade": 3,
+"class": 3,
+"num": 3317,
+"name": "오유진"
+},
+{
+"grade": 3,
+"class": 3,
+"num": 3318,
+"name": "유현승"
+},
+{
+"grade": 3,
+"class": 3,
+"num": 3319,
+"name": "윤현"
+},
+{
+"grade": 3,
+"class": 3,
+"num": 3320,
+"name": "이민교"
+},
+{
+"grade": 3,
+"class": 3,
+"num": 3321,
+"name": "이서형"
+},
+{
+"grade": 3,
+"class": 3,
+"num": 3322,
+"name": "이서호"
+},
+{
+"grade": 3,
+"class": 3,
+"num": 3323,
+"name": "이승엽"
+},
+{
+"grade": 3,
+"class": 3,
+"num": 3324,
+"name": "이승은"
+},
+{
+"grade": 3,
+"class": 3,
+"num": 3325,
+"name": "이지민"
+},
+{
+"grade": 3,
+"class": 3,
+"num": 3326,
+"name": "이해인"
+},
+{
+"grade": 3,
+"class": 3,
+"num": 3327,
+"name": "임도현"
+},
+{
+"grade": 3,
+"class": 3,
+"num": 3328,
+"name": "조우진"
+},
+{
+"grade": 3,
+"class": 3,
+"num": 3329,
+"name": "차지원"
+},
+{
+"grade": 3,
+"class": 3,
+"num": 3330,
+"name": "최민준"
+},
+{
+"grade": 3,
+"class": 3,
+"num": 3331,
+"name": "최지훈"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3401,
+"name": "곽주완"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3402,
+"name": "김건창"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3403,
+"name": "김기민"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3404,
+"name": "김대현"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3405,
+"name": "김도빈"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3406,
+"name": "김민제"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3407,
+"name": "김연우"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3408,
+"name": "김정후"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3409,
+"name": "김준형"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3410,
+"name": "김태혁"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3411,
+"name": "나연후"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3412,
+"name": "박서연"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3413,
+"name": "박준서"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3414,
+"name": "박지윤"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3415,
+"name": "박채아"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3416,
+"name": "송세은"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3417,
+"name": "신민준"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3418,
+"name": "양시후"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3419,
+"name": "유성령"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3420,
+"name": "유시아"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3421,
+"name": "윤주원"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3422,
+"name": "이규진"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3423,
+"name": "이준형"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3424,
+"name": "임예조"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3425,
+"name": "정시후"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3426,
+"name": "정주아"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3427,
+"name": "최고은"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3428,
+"name": "최예지"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3429,
+"name": "최은수"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3430,
+"name": "최찬민"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3431,
+"name": "하승주"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3432,
+"name": "한준서"
+},
+{
+"grade": 3,
+"class": 4,
+"num": 3433,
+"name": "황은재"
+},
+{
+"grade": 3,
+"class": 5,
+"num": 3501,
+"name": "강승범"
+},
+{
+"grade": 3,
+"class": 5,
+"num": 3502,
+"name": "김건율"
+},
+{
+"grade": 3,
+"class": 5,
+"num": 3503,
+"name": "김규범"
+},
+{
+"grade": 3,
+"class": 5,
+"num": 3504,
+"name": "김예림"
+},
+{
+"grade": 3,
+"class": 5,
+"num": 3505,
+"name": "김우찬"
+},
+{
+"grade": 3,
+"class": 5,
+"num": 3506,
+"name": "김지훈"
+},
+{
+"grade": 3,
+"class": 5,
+"num": 3507,
+"name": "김채린"
+},
+{
+"grade": 3,
+"class": 5,
+"num": 3508,
+"name": "김해환"
+},
+{
+"grade": 3,
+"class": 5,
+"num": 3509,
+"name": "노은하"
+},
+{
+"grade": 3,
+"class": 5,
+"num": 3510,
+"name": "노현서"
+},
+{
+"grade": 3,
+"class": 5,
+"num": 3511,
+"name": "도윤혁"
+},
+{
+"grade": 3,
+"class": 5,
+"num": 3512,
+"name": "류찬희"
+},
+{
+"grade": 3,
+"class": 5,
+"num": 3513,
+"name": "문지윤"
+},
+{
+"grade": 3,
+"class": 5,
+"num": 3514,
+"name": "박서진"
+},
+{
+"grade": 3,
+"class": 5,
+"num": 3515,
+"name": "박연서"
+},
+{
+"grade": 3,
+"class": 5,
+"num": 3516,
+"name": "박지승"
+},
+{
+"grade": 3,
+"class": 5,
+"num": 3517,
+"name": "박지원"
+},
+{
+"grade": 3,
+"class": 5,
+"num": 3518,
+"name": "백준서"
+},
+{
+"grade": 3,
+"class": 5,
+"num": 3519,
+"name": "신수민"
+},
+{
+"grade": 3,
+"class": 5,
+"num": 3520,
+"name": "안태용"
+},
+{
+"grade": 3,
+"class": 5,
+"num": 3521,
+"name": "유재형"
+},
+{
+"grade": 3,
+"class": 5,
+"num": 3522,
+"name": "유지호"
+},
+{
+"grade": 3,
+"class": 5,
+"num": 3523,
+"name": "이서원"
+},
+{
+"grade": 3,
+"class": 5,
+"num": 3524,
+"name": "임예연"
+},
+{
+"grade": 3,
+"class": 5,
+"num": 3525,
+"name": "조동건"
+},
+{
+"grade": 3,
+"class": 5,
+"num": 3526,
+"name": "조하린"
+},
+{
+"grade": 3,
+"class": 5,
+"num": 3527,
+"name": "지선빈"
+},
+{
+"grade": 3,
+"class": 5,
+"num": 3528,
+"name": "최기헌"
+},
+{
+"grade": 3,
+"class": 5,
+"num": 3529,
+"name": "최선호"
+},
+{
+"grade": 3,
+"class": 5,
+"num": 3530,
+"name": "최정원"
+},
+{
+"grade": 3,
+"class": 5,
+"num": 3531,
+"name": "홍유은"
+},
+{
+"grade": 3,
+"class": 6,
+"num": 3601,
+"name": "강혜리"
+},
+{
+"grade": 3,
+"class": 6,
+"num": 3602,
+"name": "권소윤"
+},
+{
+"grade": 3,
+"class": 6,
+"num": 3603,
+"name": "김도경"
+},
+{
+"grade": 3,
+"class": 6,
+"num": 3604,
+"name": "김도영"
+},
+{
+"grade": 3,
+"class": 6,
+"num": 3605,
+"name": "김도윤"
+},
+{
+"grade": 3,
+"class": 6,
+"num": 3606,
+"name": "김수아"
+},
+{
+"grade": 3,
+"class": 6,
+"num": 3607,
+"name": "김예린"
+},
+{
+"grade": 3,
+"class": 6,
+"num": 3608,
+"name": "김태윤"
+},
+{
+"grade": 3,
+"class": 6,
+"num": 3609,
+"name": "민경찬"
+},
+{
+"grade": 3,
+"class": 6,
+"num": 3610,
+"name": "박준혁"
+},
+{
+"grade": 3,
+"class": 6,
+"num": 3611,
+"name": "박준후"
+},
+{
+"grade": 3,
+"class": 6,
+"num": 3612,
+"name": "박지율"
+},
+{
+"grade": 3,
+"class": 6,
+"num": 3613,
+"name": "배준서"
+},
+{
+"grade": 3,
+"class": 6,
+"num": 3614,
+"name": "백서은"
+},
+{
+"grade": 3,
+"class": 6,
+"num": 3615,
+"name": "오윤중"
+},
+{
+"grade": 3,
+"class": 6,
+"num": 3616,
+"name": "윤여준"
+},
+{
+"grade": 3,
+"class": 6,
+"num": 3617,
+"name": "이가현"
+},
+{
+"grade": 3,
+"class": 6,
+"num": 3618,
+"name": "이동호"
+},
+{
+"grade": 3,
+"class": 6,
+"num": 3619,
+"name": "이승현"
+},
+{
+"grade": 3,
+"class": 6,
+"num": 3620,
+"name": "이시우"
+},
+{
+"grade": 3,
+"class": 6,
+"num": 3621,
+"name": "이지호"
+},
+{
+"grade": 3,
+"class": 6,
+"num": 3622,
+"name": "이채아"
+},
+{
+"grade": 3,
+"class": 6,
+"num": 3623,
+"name": "이하연"
+},
+{
+"grade": 3,
+"class": 6,
+"num": 3624,
+"name": "이효원"
+},
+{
+"grade": 3,
+"class": 6,
+"num": 3625,
+"name": "임예지"
+},
+{
+"grade": 3,
+"class": 6,
+"num": 3626,
+"name": "정아름"
+},
+{
+"grade": 3,
+"class": 6,
+"num": 3627,
+"name": "정이한"
+},
+{
+"grade": 3,
+"class": 6,
+"num": 3628,
+"name": "정재훈"
+},
+{
+"grade": 3,
+"class": 6,
+"num": 3629,
+"name": "조항준"
+},
+{
+"grade": 3,
+"class": 6,
+"num": 3630,
+"name": "최정원"
+},
+{
+"grade": 3,
+"class": 6,
+"num": 3631,
+"name": "하우빈"
+},
+{
+"grade": 3,
+"class": 7,
+"num": 3701,
+"name": "강혜나"
+},
+{
+"grade": 3,
+"class": 7,
+"num": 3702,
+"name": "김기범"
+},
+{
+"grade": 3,
+"class": 7,
+"num": 3703,
+"name": "김도경"
+},
+{
+"grade": 3,
+"class": 7,
+"num": 3704,
+"name": "김우진"
+},
+{
+"grade": 3,
+"class": 7,
+"num": 3705,
+"name": "김지우"
+},
+{
+"grade": 3,
+"class": 7,
+"num": 3706,
+"name": "노유주"
+},
+{
+"grade": 3,
+"class": 7,
+"num": 3707,
+"name": "문준서"
+},
+{
+"grade": 3,
+"class": 7,
+"num": 3708,
+"name": "박시형"
+},
+{
+"grade": 3,
+"class": 7,
+"num": 3709,
+"name": "손정원"
+},
+{
+"grade": 3,
+"class": 7,
+"num": 3710,
+"name": "손혜성"
+},
+{
+"grade": 3,
+"class": 7,
+"num": 3711,
+"name": "송서아"
+},
+{
+"grade": 3,
+"class": 7,
+"num": 3712,
+"name": "송준우"
+},
+{
+"grade": 3,
+"class": 7,
+"num": 3713,
+"name": "신의철"
+},
+{
+"grade": 3,
+"class": 7,
+"num": 3714,
+"name": "양서준"
+},
+{
+"grade": 3,
+"class": 7,
+"num": 3715,
+"name": "양원석"
+},
+{
+"grade": 3,
+"class": 7,
+"num": 3716,
+"name": "윤다임"
+},
+{
+"grade": 3,
+"class": 7,
+"num": 3717,
+"name": "윤동주"
+},
+{
+"grade": 3,
+"class": 7,
+"num": 3718,
+"name": "이다혜"
+},
+{
+"grade": 3,
+"class": 7,
+"num": 3719,
+"name": "이동헌"
+},
+{
+"grade": 3,
+"class": 7,
+"num": 3720,
+"name": "이승호"
+},
+{
+"grade": 3,
+"class": 7,
+"num": 3721,
+"name": "이유나"
+},
+{
+"grade": 3,
+"class": 7,
+"num": 3722,
+"name": "이주현"
+},
+{
+"grade": 3,
+"class": 7,
+"num": 3723,
+"name": "이준성"
+},
+{
+"grade": 3,
+"class": 7,
+"num": 3724,
+"name": "임세윤"
+},
+{
+"grade": 3,
+"class": 7,
+"num": 3725,
+"name": "장준혁"
+},
+{
+"grade": 3,
+"class": 7,
+"num": 3726,
+"name": "정아린"
+},
+{
+"grade": 3,
+"class": 7,
+"num": 3727,
+"name": "정초록"
+},
+{
+"grade": 3,
+"class": 7,
+"num": 3728,
+"name": "정현우"
+},
+{
+"grade": 3,
+"class": 7,
+"num": 3729,
+"name": "조영현"
+},
+{
+"grade": 3,
+"class": 7,
+"num": 3730,
+"name": "조환희"
+},
+{
+"grade": 3,
+"class": 7,
+"num": 3731,
+"name": "채시아"
+},
+{
+"grade": 3,
+"class": 8,
+"num": 3801,
+"name": "강민준"
+},
+{
+"grade": 3,
+"class": 8,
+"num": 3802,
+"name": "강시현"
+},
+{
+"grade": 3,
+"class": 8,
+"num": 3803,
+"name": "권가은"
+},
+{
+"grade": 3,
+"class": 8,
+"num": 3804,
+"name": "권혁규"
+},
+{
+"grade": 3,
+"class": 8,
+"num": 3805,
+"name": "김규현"
+},
+{
+"grade": 3,
+"class": 8,
+"num": 3806,
+"name": "김리우"
+},
+{
+"grade": 3,
+"class": 8,
+"num": 3807,
+"name": "김민준"
+},
+{
+"grade": 3,
+"class": 8,
+"num": 3808,
+"name": "김서우"
+},
+{
+"grade": 3,
+"class": 8,
+"num": 3809,
+"name": "김예진"
+},
+{
+"grade": 3,
+"class": 8,
+"num": 3810,
+"name": "김정윤"
+},
+{
+"grade": 3,
+"class": 8,
+"num": 3811,
+"name": "김태은"
+},
+{
+"grade": 3,
+"class": 8,
+"num": 3812,
+"name": "노재호"
+},
+{
+"grade": 3,
+"class": 8,
+"num": 3813,
+"name": "박찬영"
+},
+{
+"grade": 3,
+"class": 8,
+"num": 3814,
+"name": "박훈민"
+},
+{
+"grade": 3,
+"class": 8,
+"num": 3815,
+"name": "서다율"
+},
+{
+"grade": 3,
+"class": 8,
+"num": 3816,
+"name": "서예준"
+},
+{
+"grade": 3,
+"class": 8,
+"num": 3817,
+"name": "송지안"
+},
+{
+"grade": 3,
+"class": 8,
+"num": 3818,
+"name": "안예빈"
+},
+{
+"grade": 3,
+"class": 8,
+"num": 3819,
+"name": "유라현"
+},
+{
+"grade": 3,
+"class": 8,
+"num": 3820,
+"name": "윤주원"
+},
+{
+"grade": 3,
+"class": 8,
+"num": 3821,
+"name": "이가흔"
+},
+{
+"grade": 3,
+"class": 8,
+"num": 3822,
+"name": "이권률"
+},
+{
+"grade": 3,
+"class": 8,
+"num": 3823,
+"name": "이나은"
+},
+{
+"grade": 3,
+"class": 8,
+"num": 3824,
+"name": "이서윤"
+},
+{
+"grade": 3,
+"class": 8,
+"num": 3825,
+"name": "이수현"
+},
+{
+"grade": 3,
+"class": 8,
+"num": 3826,
+"name": "이효주"
+},
+{
+"grade": 3,
+"class": 8,
+"num": 3827,
+"name": "임주원"
+},
+{
+"grade": 3,
+"class": 8,
+"num": 3828,
+"name": "전하율"
+},
+{
+"grade": 3,
+"class": 8,
+"num": 3829,
+"name": "차준서"
+},
+{
+"grade": 3,
+"class": 8,
+"num": 3830,
+"name": "최한결"
+},
+{
+"grade": 3,
+"class": 8,
+"num": 3831,
+"name": "한지수"
+}
+]

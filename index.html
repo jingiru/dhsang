@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>대전동화중학교 · 생활기록부 도우미 2026</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <span class="logo">📘</span>
+    <div>
+      <h1>대전동화중학교 생활기록부 도우미</h1>
+      <p class="sub">2026학년도 · 학생별 키워드 입력 → 학교 활동 기반 생기부 초안 자동 생성</p>
+    </div>
+  </div>
+  <div class="topbar-actions">
+    <button id="btnGuide" class="ghost" title="사용법">❓ 사용법</button>
+    <button id="btnBackup" class="ghost" title="백업/복원">💾 백업</button>
+    <button id="btnSettings" class="ghost" title="설정">⚙️ 설정</button>
+  </div>
+</header>
+
+<div class="layout">
+  <!-- ───────────── 좌측: 학급 / 학생 ───────────── -->
+  <aside class="sidebar">
+    <div class="picker">
+      <div class="picker-label">학년</div>
+      <div id="gradeBtns" class="btn-row"></div>
+      <div class="picker-label">반 <span class="hint">(클릭해서 선택)</span></div>
+      <div id="classBtns" class="btn-grid"></div>
+    </div>
+
+    <div class="student-head">
+      <div class="student-title" id="classTitle">학년·반을 선택하세요</div>
+      <div class="progress" id="progress"></div>
+    </div>
+    <input id="search" class="search" type="text" placeholder="🔍 학생 이름 검색">
+    <ul id="studentList" class="student-list"></ul>
+  </aside>
+
+  <!-- ───────────── 우측: 작성 표 ───────────── -->
+  <main class="main">
+    <nav id="catTabs" class="cat-tabs"></nav>
+
+    <div class="toolbar">
+      <div class="item-pick" id="itemPick"></div>
+      <div class="toolbar-grow">
+        <div class="engine-toggle" id="engineToggle" title="생성 방식 선택">
+          <button data-eng="local">🔒 로컬</button>
+          <button data-eng="ai">✨ AI</button>
+        </div>
+        <input id="commonKw" type="text" placeholder="공통 키워드(선택) — 키워드 안 적은 학생에게 적용">
+        <button id="genAll" class="primary">⚡ 반 전체 초안 생성</button>
+        <button id="delAll" class="ghost danger">🗑 일괄 삭제</button>
+      </div>
+      <div class="toolbar-export">
+        <button id="copyAll" class="mini">📋 전체 복사</button>
+        <button id="csvAll" class="mini">⬇️ CSV</button>
+      </div>
+    </div>
+
+    <div id="tableHint" class="table-hint"></div>
+
+    <div class="table-wrap">
+      <table class="grid">
+        <thead><tr>
+          <th class="c-no">학번</th>
+          <th class="c-name">이름</th>
+          <th class="c-kw">키워드 입력</th>
+          <th>생활기록부 내용</th>
+          <th class="c-cnt">글자</th>
+          <th class="c-act">동작</th>
+        </tr></thead>
+        <tbody id="grid"></tbody>
+      </table>
+      <div id="gridEmpty" class="empty"><p>👈 왼쪽에서 <b>학년 → 반</b>을 선택하면 학생 명단이 표로 나타납니다.</p></div>
+    </div>
+  </main>
+</div>
+
+<!-- ───── 모달 / 토스트 ───── -->
+<div id="modal" class="modal-back hidden">
+  <div class="modal">
+    <div class="modal-head"><span id="modalTitle">제목</span><button id="modalClose" class="x">✕</button></div>
+    <div id="modalBody" class="modal-body"></div>
+  </div>
+</div>
+<div id="toast" class="toast hidden"></div>
+
+<script src="js/students.js"></script>
+<script src="js/data.js"></script>
+<script src="js/engine.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
