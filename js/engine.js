@@ -141,10 +141,10 @@
   }
 
   /* ---- 교과 세특 생성 ---- */
-  function genSubject(subject, keywords, seed, variant) {
+  function genSubject(subject, keywords, seed, variant, activity) {
     const r = rng(seed * 241 + (variant || 0) * 419 + 53);
     const tpl = window.DH_SUBJECT_TPL;
-    const topic = pick(subject.topics, r);
+    const topic = (activity && activity.trim()) ? activity.trim() : pick(subject.topics, r);
     const intro = pick(tpl.intro, r).replace('{subj}', subject.name).replace('{topic}', topic);
     const kwSents = (keywords || []).filter(Boolean).map(function (k) { return expandKeyword(k, r); });
     return assemble({
@@ -175,7 +175,7 @@
     const kws = o.keywords || [];
     switch (o.category) {
       case 'club': return genClub(o.clubName, kws, seed, variant);
-      case 'subject': return genSubject(o.subject, kws, seed, variant);
+      case 'subject': return genSubject(o.subject, kws, seed, variant, o.subjectActivity);
       case 'behavior': return genBehavior(kws, seed, variant);
       default: return genActivity(o.activity, kws, seed, variant); // autonomy/career/volunteer
     }
